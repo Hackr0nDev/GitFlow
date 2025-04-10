@@ -7,3 +7,4 @@
 0.1.3 creating conflict
 0.1.4 updating changelog
 0.2.0 merging; fixing conflict; stable version;
+0.2.1 hotfix;
